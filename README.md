@@ -7,7 +7,7 @@ and reports findings on a live dashboard.
 
 **Live dashboard:** https://waymo-scene-verifier-vlsaxgrezfew3egm7sa4yj.streamlit.app/
 
-![Dashboard screenshot](dashboard_screenshot.png)
+![Dashboard screenshot]("https://github.com/user-attachments/assets/c9f39bd9-c8b8-47d3-aa92-a487307f9a04")
 
 ## Architecture
 
