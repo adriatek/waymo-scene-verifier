@@ -1,0 +1,5 @@
+check_id,segment_id,severity,description
+C1,10023947602400723454_1120_000_1140_000,warning,27 pedestrians exceeds threshold: 6.
+C2,10072140764565668044_4060_000_4080_000,info,Scene contains 1 cyclist(s) - vulnerable road user present.
+C4,ALL,warning,0 of 5 segments are non_daytime. No night coverage in sample.
+C5,ALL,warning,0 of 5 segments are non_adverse_weather. No adverse weather conditions coverage in sample.

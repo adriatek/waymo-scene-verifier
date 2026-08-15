@@ -1,0 +1,6 @@
+segment_id,time_of_day,weather,location,vehicle_count,pedestrian_count,cyclist_count
+10017090168044687777_6380_000_6400_000,Day,sunny,location_sf,7,0,0
+10023947602400723454_1120_000_1140_000,Day,sunny,location_sf,31,27,0
+1005081002024129653_5313_150_5333_150,Day,sunny,location_phx,6,0,0
+10061305430875486848_1080_000_1100_000,Day,sunny,location_sf,29,0,0
+10072140764565668044_4060_000_4080_000,Day,sunny,location_sf,46,4,1
